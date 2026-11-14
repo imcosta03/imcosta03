@@ -19,7 +19,6 @@ Minha relação com programação foi mais por curiosidade quando percebi como a
   <img src="https://devicon-website.vercel.app/api/css3/original-wordmark.svg" width="80px" alt="CSS3"></img> 
   <img src="https://devicon-website.vercel.app/api/javascript/original.svg" width="80px" alt="JavaScript"></img>
   <img src="https://devicon-website.vercel.app/api/python/original.svg" width="80px" alt="JavaScript"></img>
-  <img src="https://devicon-website.vercel.app/api/python/original.svg" width="80px" alt="Python"></img>
   <img src="https://devicon-website.vercel.app/api/pandas/original.svg" width="80px" alt="Pandas"></img>
   <img src="https://devicon-website.vercel.app/api/numpy/original.svg" width="80px" alt="Numpy"></img>
 </div>
